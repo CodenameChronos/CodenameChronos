@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello there! 👋 I'm Peraza
 
-<!--
-**CodenameChronos/CodenameChronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🎓 First-year student of Computer Systems Engineering at the National University of El Salvador (UES).
+- 🌱 Currently learning Java and diving into the exciting realm of programming and cybersecurity.
+- 💡 Interested in mastering software development, secure coding practices, and cybersecurity.
 
-Here are some ideas to get you started:
+### My Interests
+- 💻 Software development and programming.
+- 🔒 Cybersecurity and secure coding principles.
+- 🌐 Web technologies and backend development.
+- 📚 Continuous learning and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Information
+- 📫 You can find me on [LinkedIn](http://www.linkedin.com/in/miguel-peraza-3a355128a) to connect and discuss all things tech.
+- 📧 Feel free to shoot me an email at [rubicantefiles@gmail.com](mailto:rubicantefiles@gmail.com).
+
+Feel free to explore my projects and repositories! I'm always excited to learn and collaborate in the thrilling world of technology.
