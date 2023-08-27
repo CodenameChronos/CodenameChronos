@@ -1,7 +1,7 @@
 # Hello there! 👋 I'm Peraza
 
 ### About Me
-- 🎓 First-year student of Computer Systems Engineering at the National University of El Salvador (UES).
+- 🎓 First-year student of Computer Systems Engineering at Universidad Nacional de El Salvador (UES).
 - 🌱 Currently learning Java and diving into the exciting realm of programming and cybersecurity.
 - 💡 Interested in mastering software development, secure coding practices, and cybersecurity.
 
